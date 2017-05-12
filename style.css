@@ -1,4 +1,15 @@
-.color-red {
-    color:azure;
-    background-color: rebeccapurple;
+.main-picture::after{
+    font-family: FontAwesome;
+    font-size: 50px;
+    content: "\f063";
+    text-align: center;
+    display: block;
+    padding-bottom: 30px;
+}
+.main-picture img{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.main-picture h1{
+    margin: 50px;
 }
